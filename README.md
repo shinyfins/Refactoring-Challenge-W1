@@ -14,3 +14,5 @@ Goals accomplished with this website
 4-Sequential heading order
 <br>
 5-Learned proper titling
+<br>
+permalink: /index.html
