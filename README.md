@@ -15,4 +15,3 @@ Goals accomplished with this website
 <br>
 5-Learned proper titling
 <br>
-permalink: /index.html
