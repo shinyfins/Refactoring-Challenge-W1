@@ -1,3 +1,4 @@
 # Code Refactor Starter Code
-Second commit with changes with this text.
-3rd
+Website for fictional marketing team.
+Goals accomplished with this website 
+1-Learned how to identify proper Alt text use and application
