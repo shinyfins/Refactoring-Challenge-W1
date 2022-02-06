@@ -15,4 +15,4 @@ Goals accomplished with this website
 <br>
 5-Learned proper titling
 <br>
-![screenshot] (assets/images/Readme-screenshot.png?raw=true "screenshot")
+assets/images/Readme-screenshot.png
